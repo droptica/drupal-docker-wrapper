@@ -1,7 +1,7 @@
 # README #
 
 To use this you have to have docker-drupal installed on your system
-https://bitbucket.org/droptica/docker-drupal
+https://github.com/droptica/docker-drupal
 
 clone repo and check out branch for your drupal version eg. D7
 
